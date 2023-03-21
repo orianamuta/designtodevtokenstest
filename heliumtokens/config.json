@@ -1,5 +1,5 @@
 {
-    "source": ["../heliumtokens/Constant.json"],
+    "source": ["../tokens/core/Constant.json"],
     "platforms": {
       "scss": {
         "transformGroup": "css",
